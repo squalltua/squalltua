@@ -1,4 +1,10 @@
 ### Hi there 👋
+# Hello World!, I'm squalltua (Pukkapol / Tua) , a Thai Web Developer 👋🏼:
+
+- 🔭 I’m currently working on Titanscript business consult co.,ltd. (@titanscript)
+- ⚡ Fun fact: PHP is immortal!!!
+
+**squalltua/squalltua** is a ✨ _special_ ✨ repository 
 
 <!--
 **squalltua/squalltua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
