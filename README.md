@@ -1,8 +1,11 @@
 ### Hi there 👋
-# Hello World!, I'm squalltua (Pukkapol / Tua) , a Thai Web applicaiton Developer 👋🏼:
+# Hello World!, I'm squalltua (Pukkapol / Tua), a Thai Web application Developer 👋🏼:
 
-- 🔭 I’m currently working on Titanscript business consult co.,ltd. (@titanscript)
+- 🔭 I’m working on Freelance/Titanscript (@titanscript)
+- I'm interested in Web application development.
 - ⚡ Fun fact: **PHP** is immortal!!!
+- Astro and Next.JS are exciting to learn.
+- 🤔 Next, Go or Python?
 
 ### My tools
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
