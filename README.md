@@ -4,7 +4,7 @@
 - 🔭 I’m working on Freelance/Titanscript (@titanscript)
 - I'm interested in Web application development.
 - ⚡ Fun fact: **PHP** is immortal!!!
-- Astro and Next.JS are exciting to learn.
+- Astro and Next.js are exciting to learn.
 - 🤔 Next, Go or Python?
 
 ### My tools
