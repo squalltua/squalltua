@@ -4,7 +4,7 @@
 - 🔭 I’m working on Freelance/Titanscript (@titanscript)
 - I'm interested in Web application development.
 - ⚡ Fun fact: **PHP** is immortal!!!
-- CakePHP for small/medium project and Symfony for scalable project.
+- **CakePHP** for small/medium project and **Symfony** for scalable project.
 - 🤔 Next, Go or Python?
 - Java .......... should learn
 
