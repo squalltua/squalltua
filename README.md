@@ -28,4 +28,33 @@ I'm the founder of **Titanscript Business Consult**, a software house dedicated 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tabler.io](
+![Tabler.io](https://img.shields.io/badge/Tabler.io-206BC4?style=for-the-badge&logo=tabler&logoColor=white)
+
+**Database:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Editor & Dev Environment:**
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DDEV](https://img.shields.io/badge/DDEV-111111?style=for-the-badge&logo=ddev&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+### ⚡ Random Bytes
+- 🐘 **Hot Take:** PHP is immortal. Period.
+- 🎮 **Current Quest:** Learning **Godot Engine** for 2D Survival games.
+- 🏔️ **Base of Operations:** Loei, Thailand.
+- 💬 **Ask me about:** Why CakePHP is still a beast for small-to-mid productions.
+
+---
+
+### 📈 GitHub Stats
+![Tua's GitHub stats](https://github-readme-stats.vercel.app/api?username=squalltua&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squalltua&layout=compact&theme=radical)
+
+---
+
+📫 **Connect with me:** [Titanscript Co., Ltd.](https://titanscript.com)
