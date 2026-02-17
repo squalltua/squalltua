@@ -1,38 +1,31 @@
-### Hi there 👋
-# Hello World!, I'm squalltua (Pukkapol / Tua), a Thai Web application Developer 👋🏼:
+# Hi there, I'm Tua (Pukkapol) 👋
+### 🇹🇭 Solo Entrepreneur | Full-Stack Developer | Software Architect
 
-- 🔭 I’m working on Freelance/Titanscript (@titanscript)
-- I'm interested in Web application development.
-- ⚡ Fun fact: **PHP** is immortal!!!
-- **CakePHP** for small/medium project and **Symfony** for scalable project.
-- 🤔 Next, Go or Python?
-- Java .......... should learn
+I'm the founder of **Titanscript Business Consult**, a software house dedicated to building robust business solutions. With over 10 years of experience in the **CakePHP** ecosystem, I bridge the gap between "it works" and "it scales."
 
-### My tools
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PHPSTORM](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![NOTEPAD++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+---
 
-### Programming language
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🛠️ What I'm building in 2026
+- 🚜 **Farm Management ERP:** Building a next-gen ERP using **Python/Django** + **PostgreSQL (pgvector)** for AI-driven agricultural insights.
+- 📦 **Custom CMS & PIM:** Developing a specialized Content Management System and Product Information Management system with **CakePHP** for high-performance internal operations.
+- 🏥 **Clinic Management SaaS:** Architecting a multi-tenant clinic system with **Symfony**.
+- ☕ **F&B Solutions:** Developing specialized apps to support **Restaurants and Cafes**, focusing on streamlining operations and customer experience.
+- 🌐 **SaaS Website Builder:** Creating a subdomain-based platform using **CakePHP** and **Caddy Server**.
+- 🤖 **Local AI Workflow:** Optimizing my dev flow with **Ollama** (Qwen/Llama 3.2) & **Continue**.
 
-### My Mech
-![HPLAPTOP](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+---
 
-<!--
-**squalltua/squalltua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tech Stack & Tools
 
-Here are some ideas to get you started:
+**Backend Mastered:**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tabler.io](
