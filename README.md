@@ -51,10 +51,5 @@ I'm the founder of **Titanscript Business Consult**, a software house dedicated 
 
 ---
 
-### 📈 GitHub Stats
-![Tua's GitHub stats](https://github-readme-stats.vercel.app/api?username=squalltua&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squalltua&layout=compact&theme=radical)
 
----
-
-📫 **Connect with me:** [Titanscript Co., Ltd.](https://titanscript.com)
+📫 **Connect with me:** [Titanscript Business Consult Co., Ltd.](https://titanscript.com)
