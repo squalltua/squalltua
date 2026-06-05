@@ -10,19 +10,19 @@ Available for freelance contracts, custom enterprise systems, and architectural 
 ### 🛠️ What I'm building & Delivering in 2026
 
 🚜 **AI-Driven Farm Management ERP:** 
-Building next-gen agricultural insights systems using **Python/Django** + **PostgreSQL (pgvector)** for data-driven operations.
+Developing next-gen agricultural insights systems for data-driven operations.
 
 📦 **High-Performance CMS & PIM Solutions:** 
-Crafting specialized, high-performance Content Management and Product Information Management systems powered by **CakePHP**.
+Crafting specialized, high-performance Content Management and Product Information Management systems.
 
 🏥 **Multi-Tenant SaaS Architecture:** 
-Architecting robust multi-tenant systems (such as clinic and business management platforms) using **Symfony**.
+Architecting robust multi-tenant systems (such as clinic and business management platforms).
 
 ☕ **F&B & Retail Operations Software:** 
 Developing custom, streamlined internal workflows and applications tailored for **Restaurants, Cafes, and Local Businesses**.
 
 🌐 **SaaS Web Infrastructure:** 
-Setting up secure, subdomain-based platforms and deployment automation utilizing **CakePHP** and **Caddy Server** over isolated environments.
+Setting up secure, subdomain-based platforms and deployment automation optimized for isolated environments.
 
 🤖 **Local AI Workflows:** 
 Integrating open-source LLMs (**Ollama/Qwen/Llama 3.2**) and **Continue** into development environments for secure, privacy-first software development.
@@ -59,12 +59,12 @@ Integrating open-source LLMs (**Ollama/Qwen/Llama 3.2**) and **Continue** into d
 ### ⚡ Random Bytes
 - 🐘 **Hot Take:** PHP is immortal. Period.
 - 🎮 **Current Quest:** Learning **Godot Engine** for 2D Survival games.
-- 🏔️ **Base of Operations:** Loei, Thailand (Remote Worldwide).
-- 💬 **Ask me about:** Why CakePHP/Symfony is a beast for small-to-mid enterprise productions.
+- 🏔️ **Base of Operations:** Korat, Loei, Thailand (Remote Worldwide).
+- 💬 **Ask me about:** Why CakePHP/Symfony is a beast for small-to-high enterprise productions.
 
 ---
 
 ### 📫 Hire Me / Connect with me:
-* ✉️ **Email:** [ใส่เมลส่วนตัวของคุณที่นี่]
-* 💼 **Fastwork Profile:** [ใส่ลิงก์หน้า Fastwork ของคุณ]
-* 🔗 **LinkedIn:** [ใส่ลิงก์ LinkedIn ถ้ามี]
+* ✉️ **Email:** squalltua@gmail.com
+* 💼 **Fastwork Profile:** [Fastwork](https://fastwork.co/user/squalltua)
+* 🔗 **LinkedIn:** [LinkedIn](www.linkedin.com/in/pukkapol-tantikittipisut-27b15374)
