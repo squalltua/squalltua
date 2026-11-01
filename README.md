@@ -1,4 +1,5 @@
 # Hi there, I'm Tua (Pukkapol) 👋
+## Current status: From Full-Stack Builder to AI-Powered Architect
 ### 🇹🇭 Senior Full-Stack Developer | Software Architect | Freelance Specialist
 
 An independent software engineer with over 10 years of experience turning complex business requirements into scalable, secure digital solutions. I bridge the gap between "it works" and "it scales." 
